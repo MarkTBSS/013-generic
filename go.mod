@@ -1,3 +1,3 @@
-module github.com/MarkTBSS/go-generic
+module github.com/MarkTBSS/013-generic
 
 go 1.21.5
